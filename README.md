@@ -13,16 +13,10 @@ A SwiftUI-based iOS application for managing library books, members, and loan tr
 
 ## Screenshots
 
-> **Note**: Place your screenshot images in a `screenshots/` folder in the root of your project with the following names:
-> - `books-view.png` - BooksView screenshot
-> - `members-view.png` - MembersView screenshot
-> - `borrow-view.png` - AddLoanMemberView screenshot
-> - `loans-view.png` - LoansView screenshot
-
 ### Books View
 *Browse and search through the library's book collection*
 
-![Books View](screenshots/books-view.png)
+![Books View](https://github.com/UND34TAK3R/LibraryManager/blob/main/Campus%20Library%20Borrowing%20Tracker/Screenshots/books-view.png)
 
 ### Members View
 *Manage library members*
