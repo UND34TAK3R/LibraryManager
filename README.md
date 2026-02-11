@@ -16,23 +16,22 @@ A SwiftUI-based iOS application for managing library books, members, and loan tr
 ### Books View
 *Browse and search through the library's book collection*
 
-<img src="[image-url](https://github.com/UND34TAK3R/LibraryManager/blob/main/Campus%20Library%20Borrowing%20Tracker/Screenshots/books-view.png)" alt="Alt Text" width="300" height="200">
-
+<img src="https://github.com/UND34TAK3R/LibraryManager/blob/main/Campus%20Library%20Borrowing%20Tracker/Screenshots/books-view.png" alt="Books View" width="300">
 
 ### Members View
 *Manage library members*
 
-![Members View](screenshots/members-view.png)
+<img src="https://github.com/UND34TAK3R/LibraryManager/blob/main/Campus%20Library%20Borrowing%20Tracker/Screenshots/members-view.png" alt="Members View" width="300">
 
 ### Borrow View
 *Add new loans to members*
 
-![Borrow View](screenshots/borrow-view.png)
+<img src="https://github.com/UND34TAK3R/LibraryManager/blob/main/Campus%20Library%20Borrowing%20Tracker/Screenshots/borrow-view.png" alt="Borrow View" width="300">
 
 ### Loans View
 *Track active, returned, and overdue loans*
 
-![Loans View](screenshots/loans-view.png)
+<img src="https://github.com/UND34TAK3R/LibraryManager/blob/main/Campus%20Library%20Borrowing%20Tracker/Screenshots/loans-view.png" alt="Loans View" width="300">
 
 ## Requirements
 
