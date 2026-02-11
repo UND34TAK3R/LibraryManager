@@ -16,7 +16,8 @@ A SwiftUI-based iOS application for managing library books, members, and loan tr
 ### Books View
 *Browse and search through the library's book collection*
 
-![Books View](https://github.com/UND34TAK3R/LibraryManager/blob/main/Campus%20Library%20Borrowing%20Tracker/Screenshots/books-view.png)
+<img src="[image-url](https://github.com/UND34TAK3R/LibraryManager/blob/main/Campus%20Library%20Borrowing%20Tracker/Screenshots/books-view.png)" alt="Alt Text" width="300" height="200">
+
 
 ### Members View
 *Manage library members*
